@@ -28,7 +28,10 @@
     "angularfire2": "^5.0.0-rc.11",
     "core-js": "^2.5.3",
     "firebase": "^5.4.0",
-    "rxjs": "6.2.2",
+    "help": "^3.0.2",
+    "rxjs": "^6.2.2",
+    "rxjs-compat": "^6.2.2",
+    "version": "^0.1.2",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
@@ -59,5 +62,7 @@
     "typescript": "~2.7.2"
   },
   "description": "An Ionic project",
-  "config": { "ionic_source_map": "source-map" }
+  "config": {
+    "ionic_source_map": "source-map"
+  }
 }
