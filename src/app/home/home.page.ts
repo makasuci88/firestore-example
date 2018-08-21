@@ -1,11 +1,7 @@
 
 import { Component } from '@angular/core';
 
-import { Observable } from 'rx';
-// import { Song } from '../../models/song.interface';
-// import { FirestoreService } from '../../services/data/firestore.service';
 
-import {Song} from '../models/song.interface';
 import {FirestoreService} from '../services/data/firestore.service';
 import { Router } from '../../../node_modules/@angular/router';
 
